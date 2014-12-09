@@ -1,0 +1,9 @@
+H:\practice\ResumeApp\ResumeApp\bin\Debug\ResumeApp.exe.config
+H:\practice\ResumeApp\ResumeApp\bin\Debug\ResumeApp.exe
+H:\practice\ResumeApp\ResumeApp\bin\Debug\ResumeApp.pdb
+H:\practice\ResumeApp\ResumeApp\obj\Debug\ResumeApp.csprojResolveAssemblyReference.cache
+H:\practice\ResumeApp\ResumeApp\obj\Debug\ResumeApp.ResumeUI.resources
+H:\practice\ResumeApp\ResumeApp\obj\Debug\ResumeApp.Properties.Resources.resources
+H:\practice\ResumeApp\ResumeApp\obj\Debug\ResumeApp.csproj.GenerateResource.Cache
+H:\practice\ResumeApp\ResumeApp\obj\Debug\ResumeApp.exe
+H:\practice\ResumeApp\ResumeApp\obj\Debug\ResumeApp.pdb

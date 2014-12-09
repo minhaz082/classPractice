@@ -1,0 +1,9 @@
+H:\ClassPractice\BankUI\BankUI\bin\Debug\BankUI.exe.config
+H:\ClassPractice\BankUI\BankUI\obj\Debug\BankUI.csprojResolveAssemblyReference.cache
+H:\ClassPractice\BankUI\BankUI\obj\Debug\BankUI.BankUI.resources
+H:\ClassPractice\BankUI\BankUI\obj\Debug\BankUI.Properties.Resources.resources
+H:\ClassPractice\BankUI\BankUI\obj\Debug\BankUI.csproj.GenerateResource.Cache
+H:\ClassPractice\BankUI\BankUI\bin\Debug\BankUI.exe
+H:\ClassPractice\BankUI\BankUI\bin\Debug\BankUI.pdb
+H:\ClassPractice\BankUI\BankUI\obj\Debug\BankUI.exe
+H:\ClassPractice\BankUI\BankUI\obj\Debug\BankUI.pdb

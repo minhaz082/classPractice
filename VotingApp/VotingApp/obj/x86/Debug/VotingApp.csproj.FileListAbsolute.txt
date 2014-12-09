@@ -1,0 +1,47 @@
+C:\Users\miraz\Desktop\C#Practice Office\VotingApp\VotingApp\bin\Debug\VotingApp.exe
+C:\Users\miraz\Desktop\C#Practice Office\VotingApp\VotingApp\bin\Debug\VotingApp.pdb
+C:\Users\miraz\Desktop\C#Practice Office\VotingApp\VotingApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\miraz\Desktop\C#Practice Office\VotingApp\VotingApp\obj\x86\Debug\VotingApp.CandidateEntryUI.resources
+C:\Users\miraz\Desktop\C#Practice Office\VotingApp\VotingApp\obj\x86\Debug\VotingApp.MainUI.resources
+C:\Users\miraz\Desktop\C#Practice Office\VotingApp\VotingApp\obj\x86\Debug\VotingApp.Properties.Resources.resources
+C:\Users\miraz\Desktop\C#Practice Office\VotingApp\VotingApp\obj\x86\Debug\VotingApp.VoteCastingUI.resources
+C:\Users\miraz\Desktop\C#Practice Office\VotingApp\VotingApp\obj\x86\Debug\VotingApp.WinnerUI.resources
+C:\Users\miraz\Desktop\C#Practice Office\VotingApp\VotingApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\miraz\Desktop\C#Practice Office\VotingApp\VotingApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\miraz\Desktop\C#Practice Office\VotingApp\VotingApp\obj\x86\Debug\VotingApp.exe
+C:\Users\miraz\Desktop\C#Practice Office\VotingApp\VotingApp\obj\x86\Debug\VotingApp.pdb
+C:\Users\Minhaz-PC\Desktop\VotingApp\VotingApp\obj\x86\Debug\VotingApp.exe
+C:\Users\Minhaz-PC\Desktop\VotingApp\VotingApp\obj\x86\Debug\VotingApp.pdb
+C:\Users\Minhaz-PC\Desktop\VotingApp\VotingApp\bin\Debug\VotingApp.exe
+C:\Users\Minhaz-PC\Desktop\VotingApp\VotingApp\bin\Debug\VotingApp.pdb
+C:\Users\Minhaz-PC\Desktop\VotingApp\VotingApp\obj\x86\Debug\VotingApp.CandidateEntryUI.resources
+C:\Users\Minhaz-PC\Desktop\VotingApp\VotingApp\obj\x86\Debug\VotingApp.MainUI.resources
+C:\Users\Minhaz-PC\Desktop\VotingApp\VotingApp\obj\x86\Debug\VotingApp.Properties.Resources.resources
+C:\Users\Minhaz-PC\Desktop\VotingApp\VotingApp\obj\x86\Debug\VotingApp.VoteCastingUI.resources
+C:\Users\Minhaz-PC\Desktop\VotingApp\VotingApp\obj\x86\Debug\VotingApp.WinnerUI.resources
+C:\Users\Minhaz-PC\Desktop\VotingApp\VotingApp\obj\x86\Debug\VotingApp.csproj.GenerateResource.Cache
+C:\Users\Minhaz-PC\Desktop\VotingApp\VotingApp\bin\Debug\VotingApp.exe.config
+C:\Users\PC21\Desktop\VotingApp\VotingApp\bin\Debug\VotingApp.exe.config
+C:\Users\PC21\Desktop\VotingApp\VotingApp\obj\x86\Debug\VotingApp.exe
+C:\Users\PC21\Desktop\VotingApp\VotingApp\obj\x86\Debug\VotingApp.pdb
+C:\Users\PC21\Desktop\VotingApp\VotingApp\bin\Debug\VotingApp.exe
+C:\Users\PC21\Desktop\VotingApp\VotingApp\bin\Debug\VotingApp.pdb
+C:\Users\PC21\Desktop\VotingApp\VotingApp\obj\x86\Debug\VotingApp.CandidateEntryUI.resources
+C:\Users\PC21\Desktop\VotingApp\VotingApp\obj\x86\Debug\VotingApp.MainUI.resources
+C:\Users\PC21\Desktop\VotingApp\VotingApp\obj\x86\Debug\VotingApp.Properties.Resources.resources
+C:\Users\PC21\Desktop\VotingApp\VotingApp\obj\x86\Debug\VotingApp.VoteCastingUI.resources
+C:\Users\PC21\Desktop\VotingApp\VotingApp\obj\x86\Debug\VotingApp.WinnerUI.resources
+C:\Users\PC21\Desktop\VotingApp\VotingApp\obj\x86\Debug\VotingApp.csproj.GenerateResource.Cache
+G:\VotingApp\VotingApp\bin\Debug\VotingApp.exe.config
+G:\VotingApp\VotingApp\obj\x86\Debug\VotingApp.exe
+G:\VotingApp\VotingApp\obj\x86\Debug\VotingApp.pdb
+G:\VotingApp\VotingApp\bin\Debug\VotingApp.exe
+G:\VotingApp\VotingApp\bin\Debug\VotingApp.pdb
+G:\VotingApp\VotingApp\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\VotingApp\VotingApp\obj\x86\Debug\VotingApp.CandidateEntryUI.resources
+G:\VotingApp\VotingApp\obj\x86\Debug\VotingApp.MainUI.resources
+G:\VotingApp\VotingApp\obj\x86\Debug\VotingApp.Properties.Resources.resources
+G:\VotingApp\VotingApp\obj\x86\Debug\VotingApp.VoteCastingUI.resources
+G:\VotingApp\VotingApp\obj\x86\Debug\VotingApp.WinnerUI.resources
+G:\VotingApp\VotingApp\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\VotingApp\VotingApp\obj\x86\Debug\GenerateResource.write.1.tlog

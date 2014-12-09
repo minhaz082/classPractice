@@ -1,0 +1,9 @@
+G:\Minhaz GitHub\WindowsFormsCalculationApp\WindowsFormsCalculationApp\bin\Debug\WindowsFormsCalculationApp.exe.config
+G:\Minhaz GitHub\WindowsFormsCalculationApp\WindowsFormsCalculationApp\bin\Debug\WindowsFormsCalculationApp.exe
+G:\Minhaz GitHub\WindowsFormsCalculationApp\WindowsFormsCalculationApp\bin\Debug\WindowsFormsCalculationApp.pdb
+G:\Minhaz GitHub\WindowsFormsCalculationApp\WindowsFormsCalculationApp\obj\Debug\WindowsFormsCalculationApp.csprojResolveAssemblyReference.cache
+G:\Minhaz GitHub\WindowsFormsCalculationApp\WindowsFormsCalculationApp\obj\Debug\WindowsFormsCalculationApp.Form1.resources
+G:\Minhaz GitHub\WindowsFormsCalculationApp\WindowsFormsCalculationApp\obj\Debug\WindowsFormsCalculationApp.Properties.Resources.resources
+G:\Minhaz GitHub\WindowsFormsCalculationApp\WindowsFormsCalculationApp\obj\Debug\WindowsFormsCalculationApp.csproj.GenerateResource.Cache
+G:\Minhaz GitHub\WindowsFormsCalculationApp\WindowsFormsCalculationApp\obj\Debug\WindowsFormsCalculationApp.exe
+G:\Minhaz GitHub\WindowsFormsCalculationApp\WindowsFormsCalculationApp\obj\Debug\WindowsFormsCalculationApp.pdb

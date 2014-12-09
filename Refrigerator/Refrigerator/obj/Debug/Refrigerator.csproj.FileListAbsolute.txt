@@ -1,0 +1,5 @@
+H:\ClassPractice\Refrigerator\Refrigerator\bin\Debug\Refrigerator.exe.config
+H:\ClassPractice\Refrigerator\Refrigerator\obj\Debug\Refrigerator.csprojResolveAssemblyReference.cache
+H:\ClassPractice\Refrigerator\Refrigerator\obj\Debug\Refrigerator.Properties.Resources.resources
+H:\ClassPractice\Refrigerator\Refrigerator\obj\Debug\Refrigerator.RefrigeratorUI.resources
+H:\ClassPractice\Refrigerator\Refrigerator\obj\Debug\Refrigerator.csproj.GenerateResource.Cache

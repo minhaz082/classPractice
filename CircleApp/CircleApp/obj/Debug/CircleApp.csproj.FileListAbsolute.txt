@@ -1,0 +1,6 @@
+G:\Minhaz GitHub\CircleApp\CircleApp\bin\Debug\CircleApp.exe.config
+G:\Minhaz GitHub\CircleApp\CircleApp\bin\Debug\CircleApp.exe
+G:\Minhaz GitHub\CircleApp\CircleApp\bin\Debug\CircleApp.pdb
+G:\Minhaz GitHub\CircleApp\CircleApp\obj\Debug\CircleApp.csprojResolveAssemblyReference.cache
+G:\Minhaz GitHub\CircleApp\CircleApp\obj\Debug\CircleApp.exe
+G:\Minhaz GitHub\CircleApp\CircleApp\obj\Debug\CircleApp.pdb

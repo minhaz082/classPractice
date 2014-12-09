@@ -1,0 +1,8 @@
+H:\ClassPractice\StudentManagement\StudentManagement1\bin\Debug\StudentManagement1.exe.config
+H:\ClassPractice\StudentManagement\StudentManagement1\bin\Debug\StudentManagement1.exe
+H:\ClassPractice\StudentManagement\StudentManagement1\bin\Debug\StudentManagement1.pdb
+H:\ClassPractice\StudentManagement\StudentManagement1\obj\Debug\StudentManagement1.csprojResolveAssemblyReference.cache
+H:\ClassPractice\StudentManagement\StudentManagement1\obj\Debug\StudentManagement1.Properties.Resources.resources
+H:\ClassPractice\StudentManagement\StudentManagement1\obj\Debug\StudentManagement1.csproj.GenerateResource.Cache
+H:\ClassPractice\StudentManagement\StudentManagement1\obj\Debug\StudentManagement1.exe
+H:\ClassPractice\StudentManagement\StudentManagement1\obj\Debug\StudentManagement1.pdb

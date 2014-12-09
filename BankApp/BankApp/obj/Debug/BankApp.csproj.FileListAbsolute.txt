@@ -1,0 +1,8 @@
+H:\ClassPractice\BankApp\BankApp\bin\Debug\BankApp.exe.config
+H:\ClassPractice\BankApp\BankApp\bin\Debug\BankApp.exe
+H:\ClassPractice\BankApp\BankApp\bin\Debug\BankApp.pdb
+H:\ClassPractice\BankApp\BankApp\obj\Debug\BankApp.csprojResolveAssemblyReference.cache
+H:\ClassPractice\BankApp\BankApp\obj\Debug\BankApp.Properties.Resources.resources
+H:\ClassPractice\BankApp\BankApp\obj\Debug\BankApp.csproj.GenerateResource.Cache
+H:\ClassPractice\BankApp\BankApp\obj\Debug\BankApp.exe
+H:\ClassPractice\BankApp\BankApp\obj\Debug\BankApp.pdb
